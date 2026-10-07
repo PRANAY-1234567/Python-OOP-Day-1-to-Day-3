@@ -277,6 +277,7 @@ print()
 a.address()'''
 
 #Class variable modification by using ClassName
+
 '''class Amazon:
     product_name="Iphone" #class variable
     color = "white"#class variable
