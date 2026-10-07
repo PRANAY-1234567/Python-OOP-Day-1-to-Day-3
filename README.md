@@ -172,6 +172,7 @@ The main objective of these programs is to build a strong foundation in **Python
 ## 🛠️ Technologies Used
 
 * **Python 3**
+* 
 * Any Python IDE or editor such as VS Code, PyCharm, or Jupyter Notebook
 
 ## ▶️ How to Run
@@ -199,5 +200,3 @@ The code in this repository is primarily written as **learning notes and practic
 **Day 3:** Accessing and Modifying Class Variables
 
 This repository will be updated as I continue learning advanced Python OOP concepts.
-
-
