@@ -4,7 +4,6 @@
 
 # How to create Object
 
-
 '''class student:
     name = "Rohit"
     rno=32
