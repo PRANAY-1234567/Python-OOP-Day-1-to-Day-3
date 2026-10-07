@@ -46,6 +46,7 @@ print(h.x)
 print(h1.x)'''
 
 '''
+
 2)If We done any modification in one object it will won't effected 
 for main class and other object 
 Syntax:--> object.var_name=value
